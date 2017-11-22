@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "sik",
+      "email": "sik994@yahoo.com",
+      "password": "123"
+    },
+    {
+      "username": "sikcyk2a",
+      "email": "cic2a@cica.com",
+      "password": "122"
+    },
+    {
+      "username": "shakira",
+      "email": "shakira@caca.com",
+      "password": "caca"
+    },
+    {
+      "username": "shakira2",
+      "email": "shakira@caca2.com",
+      "password": "caca2"
+    },
+    {
+      "username": "sik2",
+      "email": "atest1322@yahoo.com",
+      "password": "1231"
+    }
+  ]
+}
